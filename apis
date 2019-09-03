@@ -1,0 +1,13 @@
+http://siichile.herokuapp.com/consulta?rut=76017114-k
+  //consultar datos de un rut
+
+https://mindicador.cl/api/dolar
+  //consulta indicadores diarios via json
+
+https://www.feriadosapp.com/api/holidays.json
+
+//comunas chile
+  https://apis.digital.gob.cl/dpa#inicio
+
+//clima
+  https://api.gael.cl/general/public/clima
